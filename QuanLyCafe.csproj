@@ -147,6 +147,7 @@
     <Content Include="Anh\cf_lg.png" />
     <Content Include="Anh\coffee.png" />
     <Content Include="Anh\coffee_dis.png" />
+    <Content Include="QLCF.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
